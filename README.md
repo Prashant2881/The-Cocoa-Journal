@@ -1,2 +1,1 @@
-# The-Cocoa-Journal
-Cocoa Journal is a sleek digital diary with a warm brown theme, allowing users to create, edit, and save entries securely for daily reflections and notes.
+The Cocoa Journal is a simple yet elegant digital journal diary that allows users to write, edit, and delete journal entries with a warm brown-themed interface. Each entry includes a title and content, saved securely in local storage, ensuring data persists even after closing the browser. With an intuitive design and seamless functionality, this journal is perfect for daily reflections, personal notes, and creative writing.
